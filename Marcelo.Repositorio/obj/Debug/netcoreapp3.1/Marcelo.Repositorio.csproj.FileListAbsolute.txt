@@ -1,0 +1,13 @@
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Repositorio.deps.json
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Repositorio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Repositorio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.csprojAssemblyReference.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.AssemblyInfoInputs.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.AssemblyInfo.cs
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Persistencia.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Persistencia.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Repositorio\obj\Debug\netcoreapp3.1\Marcelo.Repositorio.csproj.CopyComplete

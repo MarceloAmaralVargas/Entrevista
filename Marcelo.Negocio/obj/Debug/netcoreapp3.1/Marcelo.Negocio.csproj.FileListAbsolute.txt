@@ -1,0 +1,15 @@
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Negocio.deps.json
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Negocio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Negocio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.csprojAssemblyReference.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.AssemblyInfoInputs.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.AssemblyInfo.cs
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Persistencia.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Repositorio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Repositorio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\bin\Debug\netcoreapp3.1\Marcelo.Persistencia.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Negocio\obj\Debug\netcoreapp3.1\Marcelo.Negocio.csproj.CopyComplete

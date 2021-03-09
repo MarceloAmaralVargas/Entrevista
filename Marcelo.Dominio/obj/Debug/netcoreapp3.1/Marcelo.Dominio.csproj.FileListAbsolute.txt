@@ -1,0 +1,8 @@
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.deps.json
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\bin\Debug\netcoreapp3.1\Marcelo.Dominio.pdb
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\obj\Debug\netcoreapp3.1\Marcelo.Dominio.csprojAssemblyReference.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\obj\Debug\netcoreapp3.1\Marcelo.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\obj\Debug\netcoreapp3.1\Marcelo.Dominio.AssemblyInfo.cs
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\obj\Debug\netcoreapp3.1\Marcelo.Dominio.dll
+C:\ProjetoEntrevista\Marcelo.Entrevista\Marcelo.Dominio\obj\Debug\netcoreapp3.1\Marcelo.Dominio.pdb
